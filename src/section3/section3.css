@@ -1,0 +1,17 @@
+.phone {
+  height: 100px;
+}
+.productthings {
+  display: flex;
+  justify-content: space-around;
+}
+.talk {
+  font-family: "Your";
+  color: black;
+}
+@font-face {
+  font-family: "Your";
+  src: url("./font/made_tommy") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}

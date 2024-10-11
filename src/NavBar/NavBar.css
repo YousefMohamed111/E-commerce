@@ -1,0 +1,16 @@
+.image-resizes {
+  height: 50px;
+  width: 50px;
+}
+.num-cart {
+  position: relative;
+  bottom: 12px;
+}
+.card-texts {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3; 
+  -webkit-box-orient: vertical;
+  font-family: Lato, sans-serif !important;
+}

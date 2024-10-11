@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.talking {
+  font-size: 50px;
+}
+.cc {
+  background-image: url("./img/arrangement-black-friday-clock-with-copy-space.jpg");
+  background-size: cover;
+  background-position: center;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+.offers {
+  font-size: 30px;
+}
+@media (min-width: 1200px) and (max-width: 1400px) {
+  .offer {
+    margin-top: 104px;
+  }
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+  .offer {
+    margin-top: 44px;
+  }
+}

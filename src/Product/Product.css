@@ -1,0 +1,33 @@
+.card {
+  margin-right: 20px; 
+  width: 18rem;
+}
+.card-text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3; 
+  -webkit-box-orient: vertical;
+  font-family: Lato, sans-serif !important;
+}
+.image-resize {
+  height: 150px;
+}
+
+.price {
+  color: red;
+  font-family: Lato, sans-serif !important;
+}
+.rating {
+  font-family: Lato, sans-serif !important;
+}
+.show {
+  margin-bottom: 10px;
+}
+.produc {
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+.buttonss{
+  display:flex;
+}

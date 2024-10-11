@@ -1,0 +1,39 @@
+.details-product {
+  display: flex;
+}
+.k {
+  height: 200px;
+  width: 300px;
+  margin-right: 35px;
+}
+.prouct-section {
+  display: flex;
+}
+.information {
+  border-left-style: inset;
+  border-left-width: revert;
+  border-color: azure;
+}
+@font-face {
+  font-family: "You";
+  src: url("./font/MADE TOMMY Bold_PERSONAL USE.otf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+.about-product-section h4 {
+  font-family: "You";
+}
+.talkk {
+  font-family: "You";
+  color: gray;
+  border-bottom: 1p;
+  border-bottom: black;
+  border-block-style: revert-layer;
+  border-bottom-style: inset;
+}
+.photo-product {
+  margin-top: 100px;
+}
+span {
+  color: black;
+}
